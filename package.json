@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-certificate-photo-chenyu",
+  "version": "1.0.0",
+  "description": "Cordova 身份证拍照 插件",
+  "cordova": {
+    "id": "cordova-plugin-certificate-photo-chenyu",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Chen Yu",
+  "license": "ISC"
+}
