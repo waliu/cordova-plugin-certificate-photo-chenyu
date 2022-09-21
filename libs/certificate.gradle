@@ -1,0 +1,11 @@
+repositories {
+     maven { url "https://jitpack.io" }
+}
+repositories {
+  flatDir {
+    dirs 'libs'
+  }
+}
+dependencies {
+   implementation "com.github.wildma:IDCardCamera:1.1.0"
+}
